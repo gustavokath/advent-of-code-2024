@@ -21,7 +21,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Ignore IDE specific files
-.vscode/
 .idea/
 .DS_Store
 
